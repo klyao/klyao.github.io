@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://klyao.github.io/WPp/sitemap.WPp.gz
