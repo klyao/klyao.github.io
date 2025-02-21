@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://klyao.csgad.com/SeB/sitemap.xml.gz
